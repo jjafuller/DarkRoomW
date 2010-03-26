@@ -1,0 +1,35 @@
+﻿Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+#
+# Dark Room W
+#
+# NOTICE OF LICENSE
+#
+# All project source files are subject to the Open Software License (OSL 3.0)
+# that is included with this applciation in the file LICENSE.txt.
+# The license is also available online at the following URL:
+# http://opensource.org/licenses/osl-3.0.php
+# If you did not receive a copy of the license, please send
+# an email to contact@getdarkroom.com so we can send a copy to you.
+#
+# @package    dr
+# @copyright  Copyright (c) 2010 Jeffrey Fuller (http://getdarkroom.com)
+# @license    Open Software License (OSL 3.0), http://opensource.org/licenses/osl-3.0.php  
+#
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dark Room W", "Dark Room W\Dark Room W.csproj", "{6885B474-D37B-4D15-9DAA-0479E20F16A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6885B474-D37B-4D15-9DAA-0479E20F16A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6885B474-D37B-4D15-9DAA-0479E20F16A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6885B474-D37B-4D15-9DAA-0479E20F16A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6885B474-D37B-4D15-9DAA-0479E20F16A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
