@@ -481,7 +481,7 @@ namespace DarkRoomW
             txtPage.Modified = false;
 
             dlgOpen.Filter = "Text Documents (*.txt)|*.txt|All files (*.*)|*.*";
-            dlgSave.Filter = "Text Documents (*.txt)|*.txt";
+            dlgSave.Filter = "Text Documents (*.txt)|*.txt|All files (*.*)|*.*";
 
             if (txtPage.FormattingEnabled)
             {
